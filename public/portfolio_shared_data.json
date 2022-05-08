@@ -2,12 +2,12 @@
   "basic_info": {
     "name": "Justin Mathieu",
     "titles": [
-      "Software Developer"
+      "Software Developer with a Passion for Solving Problems"
     ],
     "social": [
       {
         "name": "github",
-        "url": "https://github.com",
+        "url": "https://github.com/Justin-Mathieu",
         "class": "fab fa-github"
       },
       {
@@ -16,7 +16,7 @@
         "class": "fab fa-instagram"
       }
     ],
-    "image": "myProfile.jpg"
+    "image": "mynewProfile.jpg"
   },
   "skills": {
     "icons": [
